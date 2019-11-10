@@ -19,7 +19,7 @@ And aslo `Bitcode` mminmize your code's size.
 
 - You shouldn't store sensitve data in your app's database, It will be easy to get if anyone open app's dir and show database that stors in caches folder.
 
-- `ATS` (ATS) improves privacy and data integrity ,App Transport Security has blocked a cleartext HTTP (http://) resource load since it is insecure. Temporary exceptions can be configured via your app's Info.plist file.
+- `(ATS)` improves privacy and data integrity ,App Transport Security has blocked a cleartext HTTP (http://) resource load since it is insecure. Temporary exceptions can be configured via your app's Info.plist file.
 
 ```<key>NSAppTransportSecurity</key>
 <dict>
