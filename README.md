@@ -29,11 +29,11 @@ And aslo `Bitcode` mminmize your code's size.
     <true/>
     <key>NSAllowsArbitraryLoadsInWebContent</key>
     <true/>
-</dict>````
-
+</dict>
+```
 But that may affect of ads of your applications 
 
-- Don't run your app on Jailbreak device it can get your information form keychain 
+-  Don't run your app on Jailbreak device it can get your information form keychain 
 
 - Spend more time for selecting third libs you will use to ensure you don't have leak. 
 
